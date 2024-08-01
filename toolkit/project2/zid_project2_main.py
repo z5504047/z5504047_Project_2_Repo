@@ -478,7 +478,17 @@ print(n_obs)
 # .......
 #
 # Please replace the """?""" with your team's project 2 git log:
-git_log = """?"""
+git_log = """61efd02	z5504047XuZhang	Thu Aug 1 15:27:05 2024 +1000	Add files via upload
+d04c35c	z5504047XuZhang	Thu Aug 1 15:22:21 2024 +1000	Delete toolkit directory
+20f8a00	z5504047XuZhang	Thu Aug 1 15:16:18 2024 +1000	Add files via upload
+47acfae	z5504047XuZhang	Thu Aug 1 15:14:09 2024 +1000	Delete toolkit directory
+8546af1	z5504047XuZhang	Thu Aug 1 15:08:56 2024 +1000	Add files via upload
+ba96552	z5504047XuZhang	Thu Aug 1 15:07:13 2024 +1000	Delete toolkit directory
+35af56c	z5504047	Thu Aug 1 13:59:42 2024 +1000	Add files via upload
+d3aef0d	z5504047	Thu Aug 1 13:33:01 2024 +1000	Delete toolkit directory
+472afe1	z5504047	Wed Jul 24 18:23:59 2024 +1000	Delete tooklit/project2 directory
+c7254dd	z5504047	Wed Jul 24 18:22:53 2024 +1000	Add files via upload
+3f5146c	z550447	Wed Jul 24 13:08:08 2024 +1000	Initial commit"""
 
 # ----------------------------------------------------------------------------
 # Part 11: project 2 mini-presentation
